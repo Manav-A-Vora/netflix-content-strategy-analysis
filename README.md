@@ -1,7 +1,7 @@
-📌 Netflix Content Strategy Analysis
-This project analyzes how Netflix has evolved its content strategy between 2008 and 2021 using a publicly available dataset.
+## 📌 Netflix Content Strategy Analysis
+This project analyzes how Netflix evolved its content strategy from 2008 to 2021, focusing on content type, genres, and global expansion using data-driven insights.
 
-🎯 Objective
+## 🎯 Objective
 
 To understand:
 - Content distribution (Movies vs TV Shows)
@@ -14,11 +14,22 @@ To understand:
     - Pandas
     - Matplotlib
 
-📊 Key Insights
-- Netflix’s library is dominated by Movies (~70%), indicating a scalable content strategy.
-- A sharp increase in TV Shows after 2015 suggests a shift toward episodic content.
-- Popular genres such as Drama and Comedy dominate, reflecting a mass-audience approach.
-- Significant contributions from countries like India, Japan, and South Korea indicate global expansion.
+## ❓ Key Questions
+- What type of content dominates Netflix?
+- Has Netflix shifted toward TV Shows over time?
+- What genres are most common?
+- Is Netflix expanding globally?
 
-🧠 Conclusion
-- Netflix has evolved from a movie-heavy platform to a more diversified content provider, balancing scalability with strategic experimentation in TV shows and international content.
+## 📊 Key Insights
+- Movies dominate (~70%), indicating scalable content strategy  
+- Rapid growth of TV Shows post-2015 suggests shift toward engagement-driven content  
+- Strong presence of international content indicates global expansion
+  
+## 📊 Content Distribution
+![Content Distribution](images/content_type_distribution_plot.png)
+
+🧠 Conclusion : Netflix has evolved from a movie-heavy platform to a more diversified content provider, balancing scalability with strategic experimentation in TV shows and international content.
+
+## 👨‍💻 Author
+Manav Vora  
+Aspiring Data Analyst
