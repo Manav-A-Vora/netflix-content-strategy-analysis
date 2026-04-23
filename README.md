@@ -28,7 +28,7 @@ To understand:
 ## 📊 Content Distribution
 ![Content Distribution](images/content_type_distribution_plot.png)
 
-🧠 Conclusion : Netflix has evolved from a movie-heavy platform to a more diversified content provider, balancing scalability with strategic experimentation in TV shows and international content.
+## 🧠 Conclusion : Netflix has evolved from a movie-heavy platform to a more diversified content provider, balancing scalability with strategic experimentation in TV shows and international content.
 
 ## 👨‍💻 Author
 Manav Vora  
